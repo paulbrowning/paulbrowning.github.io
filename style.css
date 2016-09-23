@@ -21,8 +21,8 @@ h1{
 .headline{
   margin: 0 auto;
   position: relative;
-  top: 50%;
-  font-size: 10em;
+  top: 20%;
+  font-size: 8em;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
